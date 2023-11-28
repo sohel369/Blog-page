@@ -37,10 +37,14 @@
     flex: 1;
     margin: 50px 20px;
     box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    background: tomato;
+    margin: 8px;
+    padding: 20px;
 }
 .content .card img{
     width: 100%;
-    height: auto;
+    height: 200px;
 }
 .content .card h4{
     margin-top: 10px;
@@ -51,6 +55,7 @@
 .content .card p{
     font-size: 14px;
     color: green;
+    margin: 8px;
 }
 
 
